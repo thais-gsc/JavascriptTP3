@@ -1,0 +1,28 @@
+body, input, button {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
+
+body {
+    background-image: linear-gradient(red,orange, yellow, limegreen, skyblue, blue, rebeccapurple, magenta);
+    
+}
+
+h1{
+    color:white;
+    -webkit-text-stroke: 2px black;
+}
+
+h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+div {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#divqtd {
+    width: 93.5%;
+}
